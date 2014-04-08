@@ -1,0 +1,3 @@
+Developer
+=========
+Zadania z Bash
