@@ -1,3 +1,3 @@
-Developer
+psumionka
 =========
 Zadania z Bash
